@@ -64,7 +64,15 @@ To design and develop a comprehensive customer segmentation and subscription ana
 
 3. Power BI (Data Visualization, Dashboard Creation)
 
-1. Microsoft Azure (Data Storage, Integration)
+4. Microsoft Azure (Data Storage, Integration)
+
+### Data Cleaning and Preparations
+---
+ The following actions were performed at the inital Phase;
+ 1) Data loading and Inspection
+ 2) Handling missing variables
+ 3) Data cleaning and formatting
+   
 
 ### Project Deliverables:
 
@@ -116,6 +124,21 @@ To design and develop a comprehensive customer segmentation and subscription ana
 
 3. Stakeholder communication challenges.
 
+
+### Security and Access:
+---
+1. Role-based access control
+2. Data encryption
+3. Secure authentication
+
+### Data Analysis
+---
+This is where Basic lines of codes or queries are included during my analysis
+```Excel
+
+````
+
+### Data Visualization
 
 
 ### Project Status:
